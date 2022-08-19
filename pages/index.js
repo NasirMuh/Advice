@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
 
       <h1>Hello Nasir welcome</h1>
+      <p>after editing what will be do.</p>
     </div>
   )
 }

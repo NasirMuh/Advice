@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Advice from './advice'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
 
       <h1>Hello Nasir welcome</h1>
       <p>after editing what will be do.</p>
+      <Advice />
     </div>
   )
 }

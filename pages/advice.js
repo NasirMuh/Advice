@@ -38,7 +38,6 @@ const Advice = () => {
   return (
     <>
       <ToastContainer position="bottom-center" autoClose={1000} hideProgressBar={false} newestOnTop={false} closeOnClick rtl={false} pauseOnFocusLoss draggable pauseOnHover />
-
       <section className="text-gray-600 body-font">
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col border-8 bg-gray-100 border-gray-200 rounded-lg mt-10">
           <div className="flex justify-center mb-4">
